@@ -1,9 +1,9 @@
 # linktree
 link tree by Akashdip Mahapatra
 
-<h1 align="right">AKASHDIP MAHAPATRA</h1>
+<h1 align="left">AKASHDIP MAHAPATRA</h1>
 
-<h3 align="right">National award from Dilhi,taken from Indian precedent Pronob Mukherjee 2012,Drawing</h3>
+<h3 align="left">National award from Dilhi,taken from Indian precedent Pronob Mukherjee 2012,Drawing</h3>
 
 [![YouTube](https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo)](https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ)
 
